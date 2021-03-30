@@ -12,5 +12,5 @@ function animate() {
 
 //add event listener to the model and move the model with mouse-down position
 function onDocumentMouseDown(event) {
-
+    
 }
